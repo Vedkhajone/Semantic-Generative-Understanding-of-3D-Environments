@@ -1,0 +1,1 @@
+SfM outputs: images.txt, cameras.txt, etc.

@@ -1,0 +1,9 @@
+open3d
+numpy
+torch
+opencv-python
+matplotlib
+plyfile
+tqdm
+requests
+transformers

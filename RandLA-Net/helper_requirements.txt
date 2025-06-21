@@ -1,0 +1,8 @@
+numpy
+h5py
+cython
+open3d-python
+pandas
+scikit-learn
+scipy
+PyYAML
